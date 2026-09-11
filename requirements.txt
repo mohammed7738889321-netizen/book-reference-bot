@@ -1,0 +1,4 @@
+python-telegram-bot==22.5
+PyMuPDF==1.26.4
+aiohttp==3.12.15
+telethon==1.42.0
